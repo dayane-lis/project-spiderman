@@ -1,4 +1,7 @@
-![screen](https://png.pngitem.com/pimgs/s/116-1163049_marvel-s-spider-man-logo-png-png-download.png)
+<div> 
+<img align="right" src="./assets/images/pngegg.png" /> 
+</div>
+
 
 # Live Spider-Man Multiversos
 
