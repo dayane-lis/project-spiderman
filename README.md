@@ -1,5 +1,5 @@
 <div> 
-<img align="right" src="./assets/images/pngegg.png" /> 
+<img align="right" src="./assets/images/pngegg.png" width="400px" /> 
 </div>
 
 
